@@ -2,8 +2,7 @@
 Coca-Cola Sales Analysis
 Project Overview
 This project analyzes Coca-Cola sales performance across products, regions, retailers, and months to identify revenue drivers, profitability patterns, and opportunities for business improvement.
-The project is designed as an end-to-end Data Analyst portfolio project and demonstrates practical Excel skills such as data organization, KPI analysis, aggregation, business interpretation, and dashboard-style reporting.
-Dataset note: The included dataset is synthetic training data created for portfolio and interview practice. It is not official Coca-Cola company data.
+It demonstrates practical Excel skills such as data organization, KPI analysis, aggregation, business interpretation, and dashboard-style reporting.
 
 Business Problem
 A beverage company needs to understand:
